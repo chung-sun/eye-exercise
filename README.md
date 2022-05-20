@@ -8,12 +8,12 @@
 </p>
 <br>
 <h2>
-  Description: This project will track your mouse mevements. As you move your mouse, the positions of the eyes will move.
+  Description: This project will track your mouse movements. As you move your mouse, the positions of the eyes will move.
 
 </h2>
 
 <h2>
-  How to run: To run this project, you can either clone it or doanload the zip file to you local directory.
+  How to run: To run this project, you can either clone it or download the zip file to you local directory.
   Cloning; 
   <ol>
     <li>On GitHub.com, navigate to the main page of the repository.</li>
@@ -27,7 +27,7 @@
   </ol>
 </h2>
 <h2>
-  Road Map: Many things can be improved in this proect. We can add to change the color of the eye when the mouse move over the eye. Or we can make the to wink when we click the mouse over the eyes.
+  Road Map: Many things can be improved in this project. We can add to change the color of the eye when the mouse move over the eye. Or we can make the to wink when we click the mouse over the eyes.
 
 </h2>
 
